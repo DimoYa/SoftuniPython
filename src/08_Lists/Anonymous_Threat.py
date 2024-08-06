@@ -1,3 +1,7 @@
+def merge_command(arr, parameters):
+    return []
+
+
 input_data = input().split()
 
 
