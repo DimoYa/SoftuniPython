@@ -15,7 +15,7 @@ for item in os.listdir(directory):
 
 sorted_extensions = sorted(files_by_extension.keys())
 
-report_path = os.path.join("../", "report.txt")
+report_path = os.path.join("./", "report.txt")
 with open(report_path, "w") as report:
     for extension in sorted_extensions:
         report.write(f".{extension}\n")
