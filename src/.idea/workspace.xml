@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d267ca4a-775c-4c04-b7df-d7817d051e4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/01_Chicken_Snack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/02_Clear_Skies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/03_Cookbook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/01_Pie_Pursuit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Еxam_prep_2/01_Wild_Survival.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Еxam_prep_2/01_Wild_Survival.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,53 +39,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.01_Chicken_Snack.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Even_Lines.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Multiplication_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Negative_Positive.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Numbers_Dictionary.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Rapid_Courier.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_Wild_Survival.executor&quot;: &quot;Run&quot;,
-    &quot;Python.01_wild_survival.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Beesy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Clear_Skies.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Email_Validator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Keyword_Arguments_Length.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Line_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Person_Info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02_Repeat_Text.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Cheese_Showcase.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Cookbook.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Even_Odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Password_Validator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_Value_Cannot_Be_Negative.executor&quot;: &quot;Run&quot;,
-    &quot;Python.03_boarding_passengers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Directory_Traversal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Easter Bunny.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Numbers_Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Rectangle.executor&quot;: &quot;Run&quot;,
-    &quot;Python.04_Rotate_Matrix.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_Alice_in_Wonderland.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_Concatenate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_Online_Banking.executor&quot;: &quot;Run&quot;,
-    &quot;Python.05_Recursive_Power.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_Function_Executor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_Operate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.06_Range Day.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_Grocery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.07_Present_Delivery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.08_Age_Assignment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.09_Recursion_Palindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Python.10_Fill_the_Box.executor&quot;: &quot;Run&quot;,
-    &quot;Python.1_So_Many_Exceptions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.File_Manipulator.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dyanev/source/projects/SoftuniPython/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.01_Chicken_Snack.executor": "Run",
+    "Python.01_Even_Lines.executor": "Run",
+    "Python.01_Multiplication_Function.executor": "Run",
+    "Python.01_Negative_Positive.executor": "Run",
+    "Python.01_Numbers_Dictionary.executor": "Run",
+    "Python.01_Pie_Pursuit.executor": "Run",
+    "Python.01_Rapid_Courier.executor": "Run",
+    "Python.01_Wild_Survival.executor": "Run",
+    "Python.01_wild_survival.executor": "Run",
+    "Python.02_Beesy.executor": "Run",
+    "Python.02_Clear_Skies.executor": "Run",
+    "Python.02_Email_Validator.executor": "Run",
+    "Python.02_Escape_the_Maze.executor": "Run",
+    "Python.02_Keyword_Arguments_Length.executor": "Run",
+    "Python.02_Line_Numbers.executor": "Run",
+    "Python.02_Person_Info.executor": "Run",
+    "Python.02_Repeat_Text.executor": "Run",
+    "Python.03_Cheese_Showcase.executor": "Run",
+    "Python.03_Cookbook.executor": "Run",
+    "Python.03_Even_Odd.executor": "Run",
+    "Python.03_Password_Validator.executor": "Run",
+    "Python.03_Value_Cannot_Be_Negative.executor": "Run",
+    "Python.03_Wild_Card_Game.executor": "Run",
+    "Python.03_boarding_passengers.executor": "Run",
+    "Python.04_Directory_Traversal.executor": "Run",
+    "Python.04_Easter Bunny.executor": "Run",
+    "Python.04_Numbers_Filter.executor": "Run",
+    "Python.04_Rectangle.executor": "Run",
+    "Python.04_Rotate_Matrix.executor": "Run",
+    "Python.05_Alice_in_Wonderland.executor": "Run",
+    "Python.05_Concatenate.executor": "Run",
+    "Python.05_Online_Banking.executor": "Run",
+    "Python.05_Recursive_Power.executor": "Run",
+    "Python.06_Function_Executor.executor": "Run",
+    "Python.06_Operate.executor": "Run",
+    "Python.06_Range Day.executor": "Run",
+    "Python.07_Grocery.executor": "Run",
+    "Python.07_Present_Delivery.executor": "Run",
+    "Python.08_Age_Assignment.executor": "Run",
+    "Python.09_Recursion_Palindrome.executor": "Run",
+    "Python.10_Fill_the_Box.executor": "Run",
+    "Python.1_So_Many_Exceptions.executor": "Run",
+    "Python.File_Manipulator.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/dyanev/source/projects/SoftuniPython/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises" />
@@ -313,6 +313,26 @@
           <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/03_Cookbook.py</url>
           <line>15</line>
           <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/01_Pie_Pursuit.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="64" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

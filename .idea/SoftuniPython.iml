@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/src/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.12 (SoftuniPython)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.12 (First_steps_exer)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
