@@ -5,8 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d267ca4a-775c-4c04-b7df-d7817d051e4d" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/01_Pie_Pursuit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+>>>>>>> ab5a7117d4847648ae5fb4d93506d48195129a19
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
@@ -39,17 +48,23 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Еxam_prep_2/02_Collecting_Stars_Game.py" root0="FORCE_HIGHLIGHTING" />
   </component>
+=======
+>>>>>>> ab5a7117d4847648ae5fb4d93506d48195129a19
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2mAVuHges6BQdAdkcn50ryELvWI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+<<<<<<< HEAD
     "Python.01_File_Opener.executor": "Run",
     "Python.02_Collecting_Stars_Game.executor": "Run",
     "Python.02_File_Reader.executor": "Run",
@@ -63,12 +78,114 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "D:/Python/SoftuniPython/src",
     "settings.editor.selected.configurable": "preferences.lookFeel"
+=======
+    "Python.01_Chicken_Snack.executor": "Run",
+    "Python.01_Even_Lines.executor": "Run",
+    "Python.01_Multiplication_Function.executor": "Run",
+    "Python.01_Negative_Positive.executor": "Run",
+    "Python.01_Numbers_Dictionary.executor": "Run",
+    "Python.01_Pie_Pursuit.executor": "Run",
+    "Python.01_Rapid_Courier.executor": "Run",
+    "Python.01_Wild_Survival.executor": "Run",
+    "Python.01_wild_survival.executor": "Run",
+    "Python.02_Beesy.executor": "Run",
+    "Python.02_Clear_Skies.executor": "Run",
+    "Python.02_Email_Validator.executor": "Run",
+    "Python.02_Escape_the_Maze.executor": "Run",
+    "Python.02_Keyword_Arguments_Length.executor": "Run",
+    "Python.02_Line_Numbers.executor": "Run",
+    "Python.02_Person_Info.executor": "Run",
+    "Python.02_Repeat_Text.executor": "Run",
+    "Python.03_Cheese_Showcase.executor": "Run",
+    "Python.03_Cookbook.executor": "Run",
+    "Python.03_Even_Odd.executor": "Run",
+    "Python.03_Password_Validator.executor": "Run",
+    "Python.03_Value_Cannot_Be_Negative.executor": "Run",
+    "Python.03_Wild_Card_Game.executor": "Run",
+    "Python.03_boarding_passengers.executor": "Run",
+    "Python.04_Directory_Traversal.executor": "Run",
+    "Python.04_Easter Bunny.executor": "Run",
+    "Python.04_Numbers_Filter.executor": "Run",
+    "Python.04_Rectangle.executor": "Run",
+    "Python.04_Rotate_Matrix.executor": "Run",
+    "Python.05_Alice_in_Wonderland.executor": "Run",
+    "Python.05_Concatenate.executor": "Run",
+    "Python.05_Online_Banking.executor": "Run",
+    "Python.05_Recursive_Power.executor": "Run",
+    "Python.06_Function_Executor.executor": "Run",
+    "Python.06_Operate.executor": "Run",
+    "Python.06_Range Day.executor": "Run",
+    "Python.07_Grocery.executor": "Run",
+    "Python.07_Present_Delivery.executor": "Run",
+    "Python.08_Age_Assignment.executor": "Run",
+    "Python.09_Recursion_Palindrome.executor": "Run",
+    "Python.10_Fill_the_Box.executor": "Run",
+    "Python.1_So_Many_Exceptions.executor": "Run",
+    "Python.File_Manipulator.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/dyanev/source/projects/SoftuniPython/src"
+>>>>>>> ab5a7117d4847648ae5fb4d93506d48195129a19
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises" />
+      <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises\02_Line_Numbers" />
+      <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises\01_Even_Lines" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="04_Easter Bunny" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/04_Easter Bunny.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (First_steps_exer)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
       </set>
     </attachedChunks>
   </component>
@@ -87,6 +204,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Labs/03_Value_Cannot_Be_Negative.py</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
@@ -116,6 +234,177 @@
           <line>15</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+=======
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/04_Easter Bunny.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/05_Alice_in_Wonderland.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/06_Range Day.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/07_Present_Delivery.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/07_Present_Delivery.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/04_Matrices/02_Exercises/07_Present_Delivery.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Lab/01_Multiplication_Function.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Lab/01_Multiplication_Function.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Lab/03_Cheese_Showcase.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Lab/03_Cheese_Showcase.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Exercises/03_Even_Odd.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Exercises/05_Concatenate.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Exercises/06_Function_Executor.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/05_Functions_Advanced/Exercises/06_Function_Executor.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Exercises/01_Numbers_Dictionary.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Exercises/02_Email_Validator.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Exercises/04_Rotate_Matrix.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Exercises/05_Online_Banking.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/06_Error Handling/Exercises/05_Online_Banking.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/07_File_Handling/Exercises/01_Even_Lines/01_Even_Lines.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/07_File_Handling/Exercises/01_Even_Lines/01_Even_Lines.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/07_File_Handling/Exercises/02_Line_Numbers/02_Line_Numbers.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/07_File_Handling/Exercises/03_File_Manipulator/03_File_Manipulator.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_1/01_Rapid_Courier.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_1/01_Rapid_Courier.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Еxam_prep_2/01_Wild_Survival.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/01_Chicken_Snack.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/03_Cookbook.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/03_Cookbook.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_3/03_Cookbook.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/01_Pie_Pursuit.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+>>>>>>> ab5a7117d4847648ae5fb4d93506d48195129a19
       </breakpoints>
     </breakpoint-manager>
   </component>
