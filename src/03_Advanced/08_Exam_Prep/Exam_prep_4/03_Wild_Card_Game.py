@@ -1,43 +1,42 @@
 def draw_cards(*first_group, **second_group):
-    monsters = {}
-    spells = {}
+    monsters = []
+    spells = []
     result = ""
 
+    # Process the first group of tuples
     for item in first_group:
-        if item[1] == "monster":
-            if item[0] not in monsters:
-                monsters[item[1]] = []
-            monsters[item[1]].append(item[0])
-        else:
-            if item[0] not in spells:
-                spells[item[1]] = []
-            spells[item[1]].append(item[0])
+        card_name, card_type = item
+        if card_type == "monster":
+            monsters.append(card_name)
+        elif card_type == "spell":
+            spells.append(card_name)
 
-    for k, v in second_group.items():
-        if v == "monster":
-            if k not in monsters:
-                monsters[v] = []
-            monsters[v].append(k)
-        else:
-            if v not in spells:
-                spells[v] = []
-            spells[v].append(k)
+    # Process the second group of keyword arguments
+    for card_name, card_type in second_group.items():
+        if card_type == "monster":
+            monsters.append(card_name)
+        elif card_type == "spell":
+            spells.append(card_name)
 
+    # Sort the monster cards in descending order
+    monsters.sort(reverse=True)
+
+    # Sort the spell cards in ascending order
+    spells.sort()
+
+    # Format the result string
     if monsters:
         result += "Monster cards:\n"
-        for k, v in sorted(monsters.items(), key=lambda kvp: kvp[0], reverse=True):
-            result += f"{'\n'.join({f"  ***{v}\n,"})}"
-
-    result.rstrip()
+        result += ''.join([f"  ***{monster}\n" for monster in monsters])
 
     if spells:
+        if result:
+            result = result.rstrip() + "\n"  # Remove trailing newline and add a new one before spell cards
         result += "Spell cards:\n"
-        for k, v in sorted(spells.items(), key=lambda kvp: kvp[0]):
-            result += f"  $$${v}\n,"
+        result += ''.join([f"  $$${spell}\n" for spell in spells])
 
     return result
 
-
-print(draw_cards(("cyber dragon", "monster"), freeze="spell",))
-
-print(draw_cards(("celtic guardian", "monster"), ("earthquake", "spell"), ("fireball", "spell"), raigeki="spell", destroy="spell",))
+# Test cases
+print(draw_cards(("brave attack", "spell"), ("freeze", "spell"), lightning_bolt="spell", fireball="spell"))
+print(draw_cards(("celtic guardian", "monster"), ("earthquake", "spell"), ("fireball", "spell"), raigeki="spell", destroy="spell"))
