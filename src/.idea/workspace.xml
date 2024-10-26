@@ -5,11 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d267ca4a-775c-4c04-b7df-d7817d051e4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/01_Pie_Pursuit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/02_Escape_the_Maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/SoftuniPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/01_Shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/02_Hero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/03_Employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/04_Cup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/05_Flower.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/06_Steam_User.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/07_Programmer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/project/pokemon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/project/trainer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,23 +54,27 @@
     "Python.01_Numbers_Dictionary.executor": "Run",
     "Python.01_Pie_Pursuit.executor": "Run",
     "Python.01_Rapid_Courier.executor": "Run",
+    "Python.01_Shop.executor": "Run",
     "Python.01_Wild_Survival.executor": "Run",
     "Python.01_wild_survival.executor": "Run",
     "Python.02_Beesy.executor": "Run",
     "Python.02_Clear_Skies.executor": "Run",
     "Python.02_Email_Validator.executor": "Run",
     "Python.02_Escape_the_Maze.executor": "Run",
+    "Python.02_Hero.executor": "Run",
     "Python.02_Keyword_Arguments_Length.executor": "Run",
     "Python.02_Line_Numbers.executor": "Run",
     "Python.02_Person_Info.executor": "Run",
     "Python.02_Repeat_Text.executor": "Run",
     "Python.03_Cheese_Showcase.executor": "Run",
     "Python.03_Cookbook.executor": "Run",
+    "Python.03_Employee.executor": "Run",
     "Python.03_Even_Odd.executor": "Run",
     "Python.03_Password_Validator.executor": "Run",
     "Python.03_Value_Cannot_Be_Negative.executor": "Run",
     "Python.03_Wild_Card_Game.executor": "Run",
     "Python.03_boarding_passengers.executor": "Run",
+    "Python.04_Cup.executor": "Run",
     "Python.04_Directory_Traversal.executor": "Run",
     "Python.04_Easter Bunny.executor": "Run",
     "Python.04_Numbers_Filter.executor": "Run",
@@ -72,25 +82,32 @@
     "Python.04_Rotate_Matrix.executor": "Run",
     "Python.05_Alice_in_Wonderland.executor": "Run",
     "Python.05_Concatenate.executor": "Run",
+    "Python.05_Flower.executor": "Run",
     "Python.05_Online_Banking.executor": "Run",
     "Python.05_Recursive_Power.executor": "Run",
     "Python.06_Function_Executor.executor": "Run",
     "Python.06_Operate.executor": "Run",
     "Python.06_Range Day.executor": "Run",
+    "Python.06_Steam_User.executor": "Run",
     "Python.07_Grocery.executor": "Run",
     "Python.07_Present_Delivery.executor": "Run",
+    "Python.07_Programmer.executor": "Run",
     "Python.08_Age_Assignment.executor": "Run",
     "Python.09_Recursion_Palindrome.executor": "Run",
     "Python.10_Fill_the_Box.executor": "Run",
     "Python.1_So_Many_Exceptions.executor": "Run",
     "Python.File_Manipulator.executor": "Debug",
+    "Python.main.executor": "Run",
+    "Python.pokemon.executor": "Run",
+    "Python.trainer.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "Merging main",
     "last_opened_file_path": "C:/Users/dyanev/source/projects/SoftuniPython/src"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\04_OOP\01_First_Steps\08_Pokemon Battle\project" />
       <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises" />
       <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises\02_Line_Numbers" />
       <recent name="C:\Users\dyanev\source\projects\SoftuniPython\src\03_Advanced\07_File_Handling\Exercises\01_Even_Lines" />
@@ -333,6 +350,31 @@
           <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_4/03_Wild_Card_Game.py</url>
           <line>26</line>
           <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/01_First_Steps/03_Employee.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/01_First_Steps/03_Employee.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/project/trainer.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/project/trainer.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/01_First_Steps/08_Pokemon Battle/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
