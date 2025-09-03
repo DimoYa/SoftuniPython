@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e0e24f2-7a61-4826-9218-4cc10d406f8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs/01_Vehicle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs/02_Point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs/03_Circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs/04_Glass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs/05_Smartphone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/01.Activation_Keys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/02.Emoji_Detector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/03.Heroes_of_code_and_logic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "DimoYa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DimoYa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/DimoYa/SoftuniPython.git",
-    "accountId": "5be33bcd-3cb1-4cf7-b174-d887744f844d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DimoYa/SoftuniPython.git&quot;,
+    &quot;accountId&quot;: &quot;5be33bcd-3cb1-4cf7-b174-d887744f844d&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2o4maQhKkW5cGsDrndntSNAsZiL" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -52,16 +51,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.01.Activation_Keys.executor": "Run",
     "Python.01_Vehicle.executor": "Run",
+    "Python.02.Emoji_Detector.executor": "Run",
     "Python.02_Point.executor": "Run",
+    "Python.03.Heroes_of_code_and_logic.executor": "Run",
     "Python.03_Circle.executor": "Run",
     "Python.04_Glass.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Python/SoftuniPython/src"
+    "last_opened_file_path": "C:/Users/dyanev1/source/repos/SoftuniPython/src"
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="01.Activation_Keys" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.13 (PyCharmMiscProject)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/01.Activation_Keys.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="01_Vehicle" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="src" />
       <option name="ENV_FILES" value="" />
@@ -71,7 +97,6 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/02_Classes_and_Objects/01_Labs" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -89,7 +114,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
       </set>
     </attachedChunks>
   </component>
@@ -103,5 +128,31 @@
       <updated>1730137284975</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/01.Activation_Keys.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/02.Emoji_Detector.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/03.Heroes_of_code_and_logic.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/03.Heroes_of_code_and_logic.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
