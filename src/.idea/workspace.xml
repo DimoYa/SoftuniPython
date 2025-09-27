@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e0e24f2-7a61-4826-9218-4cc10d406f8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/01.Activation_Keys.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/02.Emoji_Detector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/03.Heroes_of_code_and_logic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/01.Secret_Chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/02.Mirror_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/03.Need_for_Speed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,10 +52,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.01.Activation_Keys.executor": "Run",
+    "Python.01.Secret_Chat.executor": "Run",
     "Python.01_Vehicle.executor": "Run",
     "Python.02.Emoji_Detector.executor": "Run",
+    "Python.02.Mirror_words.executor": "Run",
     "Python.02_Point.executor": "Run",
     "Python.03.Heroes_of_code_and_logic.executor": "Run",
+    "Python.03.Need_for_Speed.executor": "Run",
     "Python.03_Circle.executor": "Run",
     "Python.04_Glass.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -151,6 +154,21 @@
           <url>file://$PROJECT_DIR$/02_Fundamentals/20_Exam_prep_7/03.Heroes_of_code_and_logic.py</url>
           <line>76</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/01.Secret_Chat.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/02.Mirror_words.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/02_Fundamentals/21_Exam_prep_8/03.Need_for_Speed.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
