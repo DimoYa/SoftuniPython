@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e0e24f2-7a61-4826-9218-4cc10d406f8e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_11/01.Chicken_Snack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_11/02.Clear_Skies.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_11/03.Cookbook.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -49,28 +46,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01..executor": "Run",
-    "Python.01.Activation_Keys.executor": "Run",
-    "Python.01.Secret_Chat.executor": "Run",
-    "Python.01_Vehicle.executor": "Run",
-    "Python.02.Clear_Skies.executor": "Run",
-    "Python.02.Emoji_Detector.executor": "Run",
-    "Python.02.Mirror_words.executor": "Run",
-    "Python.02_Point.executor": "Run",
-    "Python.03.Cookbook.executor": "Run",
-    "Python.03.Heroes_of_code_and_logic.executor": "Run",
-    "Python.03.Need_for_Speed.executor": "Run",
-    "Python.03_Circle.executor": "Run",
-    "Python.04_Glass.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/dyanev1/source/repos/SoftuniPython/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_get_available_capacity_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_get_available_memory_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_get_used_capacity_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_get_used_memory_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_init_default.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_install_software_fail.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_install_software_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.ClimbingRobotTest.test_invalid_name_raise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01..executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Activation_Keys.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01.Secret_Chat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.01_Vehicle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Clear_Skies.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Emoji_Detector.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02.Mirror_words.executor&quot;: &quot;Run&quot;,
+    &quot;Python.02_Point.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Cookbook.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Heroes_of_code_and_logic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.Need_for_Speed.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03_Circle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.04_Glass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.start_up.executor&quot;: &quot;Run&quot;,
+    &quot;Python.summit_quest_manager_app.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dyanev1/source/repos/SoftuniPython/src&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python tests.Python tests for test.ClimbingRobotTest">
     <configuration name="01.Activation_Keys" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="src" />
       <option name="ENV_FILES" value="" />
@@ -116,6 +124,90 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test.ClimbingRobotTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ClimbingRobotTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.ClimbingRobotTest.test_get_available_memory_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ClimbingRobotTest.test_get_available_memory_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.ClimbingRobotTest.test_get_used_memory_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ClimbingRobotTest.test_get_used_memory_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.ClimbingRobotTest.test_install_software_fail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ClimbingRobotTest.test_install_software_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.ClimbingRobotTest.test_install_software_success" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.ClimbingRobotTest.test_install_software_success&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.ClimbingRobotTest" />
+        <item itemvalue="Python tests.Python tests for test.ClimbingRobotTest.test_install_software_fail" />
+        <item itemvalue="Python tests.Python tests for test.ClimbingRobotTest.test_install_software_success" />
+        <item itemvalue="Python tests.Python tests for test.ClimbingRobotTest.test_get_available_memory_success" />
+        <item itemvalue="Python tests.Python tests for test.ClimbingRobotTest.test_get_used_memory_success" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -192,6 +284,16 @@
           <url>file://$PROJECT_DIR$/03_Advanced/08_Exam_Prep/Exam_prep_11/03.Cookbook.py</url>
           <line>22</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/ExamPrep8/project/summit_quest_manager_app.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04_OOP/ExamPrep8_Test/project/test/test.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
